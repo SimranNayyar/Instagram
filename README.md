@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+The gif is still not working, here is the youtube video link as a substitute: https://youtu.be/izv1H9GkG6c
 
 # Parstagram - Part I
 
